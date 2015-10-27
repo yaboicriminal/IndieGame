@@ -21,8 +21,9 @@ public class Board extends JPanel {
     private Object chat;
     private Object bigcloud;
     private Object smallcloud;
-    private int w = 0;
-    private int h = 0;
+    private Object sparkles;
+    private int bw = 0;
+    private int bh = 0;
     // private boolean completed = false;
 
     private String level =
@@ -45,11 +46,11 @@ public class Board extends JPanel {
     }
 
     public int getBoardWidth() {
-        return this.w;
+        return this.bw;
     }
 
     public int getBoardHeight() {
-        return this.h;
+        return this.bh;
     }
 
     public final void initWorld() {
@@ -65,8 +66,8 @@ public class Board extends JPanel {
 
             if (item == '\n') {
                 y += SPACE;
-                if (this.w < x) {
-                    this.w = x;
+                if (this.bw < x) {
+                    this.bw = x;
                 }
                 x = 0;
             } else if (item == '#') {
@@ -94,7 +95,7 @@ public class Board extends JPanel {
             } else if (item == ' ') {
                 x += SPACE;
             }
-            h = y;
+            bh = y;
         }
     }
 
@@ -144,6 +145,7 @@ public class Board extends JPanel {
             int key = e.getKeyCode();
 
             if (key == KeyEvent.VK_LEFT) {
+
                 if (checkWallCollision(present, LEFT_COLLISION)) {
                     return;
                 }
