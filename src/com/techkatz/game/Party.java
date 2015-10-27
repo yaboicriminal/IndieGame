@@ -30,16 +30,14 @@ public final class Party extends JFrame {
         setTitle("Your Party");
         setIconImage(image);
 
-        try
-        {
+        try {
             Clip c = AudioSystem.getClip();
             AudioInputStream inputs = AudioSystem.getAudioInputStream(Party.class.getResource("/music/EnchantedJourney.wav"));
             c.open(inputs);
             c.start();
             c.loop(-1);
         }
-        catch (Exception ex)
-        {
+        catch (Exception ex) {
             ex.printStackTrace();
         }
     }
