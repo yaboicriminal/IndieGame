@@ -2,33 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb166d2d-9c43-4ffb-af97-6bd5e8077fd9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/IndeGame_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IndeGame.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/music/Enchanted Journey.wav" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board$TAdapter.class" afterPath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board$TAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board.class" afterPath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Party.class" afterPath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Party.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/chat.png" afterPath="$PROJECT_DIR$/out/production/IndeGame/images/chat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Russell.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Actor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Balloons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/BigCloud.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board$TAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Board.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Cake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Chat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Grass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Party.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/com/techkatz/game/SmallCloud.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/balloons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/big-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/cake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/grass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/present.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/IndeGame/images/small-cloud.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IndeGame/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/production/IndeGame/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Actor.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Actor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Balloons.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Balloons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/BigCloud.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/BigCloud.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Board.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Board.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Cake.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Cake.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Chat.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Chat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Grass.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Grass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Party.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Party.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/Player.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/Player.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/SmallCloud.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/SmallCloud.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/techkatz/game/StartMenu.java" afterPath="$PROJECT_DIR$/src/com/techkatz/game/StartMenu.java" />
     </list>
     <ignored path="IndeGame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +46,8 @@
       <file leaf-file-name="Balloons.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/techkatz/game/Balloons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06990291">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.10485437">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +75,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
-    <option name="y" value="38" />
+    <option name="x" value="160" />
+    <option name="y" value="44" />
     <option name="width" value="1162" />
     <option name="height" value="639" />
   </component>
@@ -201,11 +195,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndieGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndieGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,10 +498,17 @@
       <option name="number" value="Default" />
       <updated>1446869299378</updated>
     </task>
+    <task id="LOCAL-00001" summary="General project revamp!">
+      <created>1447715054928</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447715054928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="38" width="1162" height="639" extended-state="0" />
+    <frame x="160" y="44" width="1162" height="639" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -506,6 +525,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -526,6 +546,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="General project revamp!" />
+    <option name="LAST_COMMIT_MESSAGE" value="General project revamp!" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -535,11 +559,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/techkatz/game/Balloons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,14 +654,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/techkatz/game/Balloons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06990291">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.10485437">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
