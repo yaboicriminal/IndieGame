@@ -26,18 +26,19 @@ public class Board extends JPanel {
     private int bh = 0;
     // private boolean completed = false;
 
+	// using this to draw stuff onto the JFrame (# represents a glass block)
     private String level =
-                      "                  \n"
-                    + " !           %    \n"
-                    + "         *        \n"
-                    + "                  \n"
-                    + "                  \n"
-                    + "                  \n"
-                    + "                  \n"
-                    + "  ^             $ \n"
-                    + "                  \n"
-                    + "               @  \n"
-                    + "##################\n";
+                      "                       \n"
+                    + "                       \n"
+                    + "                       \n"
+                    + "   #     #             \n"
+                    + "   ##   ##             \n"
+                    + "   # # # #             \n"
+                    + "   #  #  #             \n" // The 'M' should be converted into a M in grass blocks.
+                    + "                       \n"
+                    + "                       \n"
+                    + "               @       \n"
+                    + "#######################\n";
 
     public Board() {
         addKeyListener(new TAdapter());
