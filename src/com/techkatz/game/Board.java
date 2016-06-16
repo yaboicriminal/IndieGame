@@ -112,11 +112,11 @@ public class Board extends JPanel {
         world.add(smallcloud);
         world.add(cake);
         world.add(chat);
-
+        // loop through the world array
         for (int i = 0; i < world.size(); i++) {
-
+            // get the item of the index of the loop
             Actor item = (Actor) world.get(i);
-
+            // add 1 to the y so it knows when to stack grass and same with the player (I think)
             if ((item instanceof Player) || (item instanceof Grass)) {
                 g.drawImage(item.getImage(), item.x() + 0, item.y() + 1, this);
             } else {
